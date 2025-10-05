@@ -58,8 +58,8 @@ This repo extends my master’s thesis on Markov‑Switching GARCH models. It do
 MSGARCH_Algo/
 ├─ README.md                  # this file
 ├─ R/
-│  ├─ backtest_rolling.R      # estimation loop (to be added next)
-│  ├─ spec_ms_garch.R         # spec helpers (to be added)
+│  ├─ Model Estimation.R      # estimation loop (to be added next)
+│  ├─ Trading Strategies.R         # spec helpers (to be added)
 │  └─ metrics.R               # simple stats (later)
 ├─ scripts/
 │  ├─ run_backtest.R          # runs one config & saves artifacts (later)
